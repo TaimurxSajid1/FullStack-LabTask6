@@ -1,0 +1,11 @@
+{
+  "name": "lab6-241839-taimur-sajid",
+  "version": "1.0.0",
+  "description": "Lab 6 - async/await and Promise.all using the Fake Store API",
+  "type": "module",
+  "author": "Taimur Sajid (241839)",
+  "scripts": {
+    "task1": "node task1.js",
+    "task2": "node task2.js"
+  }
+}
